@@ -1,6 +1,6 @@
 def setup():
     global img
-    fullScreen()
+    size(1366, 768)
     img = loadImage("haunted-house-md.png")
 
 def draw():
